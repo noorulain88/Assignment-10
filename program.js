@@ -56,10 +56,75 @@ console.log("hello world")
 
 // program 05
 
-var a=prompt("enter the tha of a ")
-var b=prompt("enter the tha of b ")
-sum=a+b
-console.log("the sum of a and b is")
+// var a=prompt("enter the tha of a ")
+// var b=prompt("enter the tha of b ")
+//  var sum=a+b
+// console.log("the sum of a and b is" ,sum)
+
+// program 06
+
+// var a=prompt("enter the tha of a ")
+// var b=prompt("enter the tha of b ")
+//  var  multiply=a*b
+// console.log("the multiply of a and b is" , multiply)
+
+// program 07
+
+// var a=prompt("enter the the  of a ")
+// var b=prompt("enter the the  of b ")
+// var divide =a/b
+// console.log("the divide of a and b is " ,divide )
+// console.log("the qutiont and reminder  is depend upon the value of a and b" )
+
+// program 08
+
+// var length=prompt("enter the area of rectangle")
+// var weidth =prompt("enter the area of rectangle")
+// var area=length*weidth
+// console.log("the area of rectanglre is " ,area)
+
+// program 09
+
+
+// total number
+
+// var math =prompt( "enter your math marks" ) 
+// var urdu = prompt("enter your urdu marks")
+// var bio = prompt("enter your bio marks")
+// var eng = prompt("enter your eng marks")
+// var islamiat = prompt("enter your islamiat marks")
+// var total = math + urdu + eng + bio + islamiat
+// console.log("Total Number of 5 subject is  ", total)
+
+
+// total average
+
+// var math =prompt( "enter your math marks" ) 
+// var urdu = prompt("enter your urdu marks")
+// var bio = prompt("enter your bio marks")
+// var eng = prompt("enter your eng marks")
+// var islamiat = prompt("enter your islamiat marks")
+// var average = math % urdu % eng % bio % islamiat
+// console.log("Average of 5 subject is ", average)  
+
+// program 10
+
+// var length=prompt("enter the area of square")
+// var weidth =prompt("enter the area of square")
+// var area=length*weidth
+// console.log("the area of square is " ,area)
+
+// program 11
+
+
+
+
+
+
+ 
+
+
+
 
 
 
