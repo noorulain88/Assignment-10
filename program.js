@@ -116,30 +116,60 @@ console.log("hello world")
 
 // program 11
 
+// var age=prompt("enter your age")
+
+// if(age>18){
+//     console.log("you are eligible for vote")
+// }
+// else{
+//     console.log("you are not elogible for vote")
+// }
+
+// program 12
+
+// var num1=prompt("enter the number  ")
+
+// if(num1<100  ){ 
+//     console.log("the number is less than 100 even and positive")
+// }
+// else { (num1<100 )
+//     console.log("the number is  not even and  nor  positive")
+// }
 
 
+// program 13
+
+// var num1=prompt("enter first number")
+// var num2=prompt("enter seconde number")
+// var num3=prompt("enter third  number")
+// if(num1==num2 && num2==num3){ 
+//     console.log("all number are equal")
+// }
+// else { ( num1!=num2 && num2!=num3)
+//     console.log("all number are not equal")
+// }
+
+// program 14
+
+// var temperature=prompt("enter the room  temperature")
+// if(temperature >20 && temperature <  30){
+//     console.log(" The teperature is comfortable")
+// }
+// else{ (  temperature >20 && temperature <  30) 
+//     console.log("THE temperature is not comfortable")
+// }
 
 
+// program 15
 
- 
-
-
-
-
-
-
-
-
-
+// var marks=prompt("enter your marks")
+// if (marks >= 40 && marks <= 100){
+//     console.log("you are pass")
+// } 
+// else{ (marks >= 40 && marks <= 100)
+//     console.log("you are not  pass")
+// }
 
 
-
-
-
-
-  
-
-
-
-
+// The end !
 
