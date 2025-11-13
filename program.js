@@ -116,14 +116,14 @@ console.log("hello world")
 
 // program 11
 
-// var age=prompt("enter your age")
+var age=prompt("enter your age")
 
-// if(age>18){
-//     console.log("you are eligible for vote")
-// }
-// else{
-//     console.log("you are not elogible for vote")
-// }
+if(age>18){
+    console.log("you are eligible for vote")
+}
+else{
+    console.log("you are not elogible for vote")
+}
 
 // program 12
 
